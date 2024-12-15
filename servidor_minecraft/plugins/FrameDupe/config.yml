@@ -1,0 +1,3 @@
+# Configuración del plugin FrameDupe
+probability:
+  remove: 0.3  # Probabilidad de duplicar el objeto al sacarlo del marco (30%)
