@@ -450,3 +450,638 @@ chunky reload - Reload configuration
 [22:07:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9089 chunks (56.35%), ETA: 0:06:12, Rate: 18.9 cps, Current: 55, 39
 [22:07:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9148 chunks (56.72%), ETA: 0:05:53, Rate: 19.7 cps, Current: 55, 37
 [22:07:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9203 chunks (57.06%), ETA: 0:05:31, Rate: 20.9 cps, Current: 62, 32
+[22:07:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9217 chunks (57.15%), ETA: 0:06:23, Rate: 18.0 cps, Current: 32, -33
+[22:07:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9218 chunks (57.15%), ETA: 0:06:03, Rate: 19.0 cps, Current: 32, -34
+[22:07:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9219 chunks (57.16%), ETA: 0:06:20, Rate: 18.1 cps, Current: 32, -60
+[22:07:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9248 chunks (57.34%), ETA: 0:06:15, Rate: 18.3 cps, Current: 33, -60
+[22:07:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9279 chunks (57.53%), ETA: 0:06:16, Rate: 18.2 cps, Current: 34, -60
+[22:07:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9312 chunks (57.73%), ETA: 0:06:06, Rate: 18.6 cps, Current: 35, -61
+[22:07:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9350 chunks (57.97%), ETA: 0:06:06, Rate: 18.5 cps, Current: 36, -54
+[22:07:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9378 chunks (58.14%), ETA: 0:05:59, Rate: 18.8 cps, Current: 37, -63
+[22:07:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9403 chunks (58.30%), ETA: 0:05:51, Rate: 19.1 cps, Current: 38, -60
+[22:07:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9434 chunks (58.49%), ETA: 0:05:51, Rate: 19.0 cps, Current: 39, -60
+[22:07:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9465 chunks (58.68%), ETA: 0:05:46, Rate: 19.3 cps, Current: 40, -61
+[22:07:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9502 chunks (58.91%), ETA: 0:05:42, Rate: 19.3 cps, Current: 41, -63
+[22:07:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9527 chunks (59.07%), ETA: 0:05:33, Rate: 19.8 cps, Current: 42, -60
+[22:07:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9558 chunks (59.26%), ETA: 0:05:30, Rate: 19.9 cps, Current: 43, -60
+[22:07:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9580 chunks (59.40%), ETA: 0:05:31, Rate: 19.7 cps, Current: 43, -36
+[22:07:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9589 chunks (59.45%), ETA: 0:05:43, Rate: 19.1 cps, Current: 44, -61
+[22:07:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9609 chunks (59.58%), ETA: 0:06:01, Rate: 18.0 cps, Current: 44, -46
+[22:07:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9620 chunks (59.64%), ETA: 0:06:38, Rate: 16.4 cps, Current: 45, -59
+[22:07:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9643 chunks (59.79%), ETA: 0:06:31, Rate: 16.6 cps, Current: 45, -43
+[22:07:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9660 chunks (59.89%), ETA: 0:07:01, Rate: 15.3 cps, Current: 46, -54
+[22:08:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9682 chunks (60.03%), ETA: 0:06:24, Rate: 16.8 cps, Current: 47, -60
+[22:08:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9713 chunks (60.22%), ETA: 0:06:12, Rate: 17.2 cps, Current: 48, -61
+[22:08:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9744 chunks (60.41%), ETA: 0:05:38, Rate: 18.8 cps, Current: 49, -60
+[22:08:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9775 chunks (60.61%), ETA: 0:05:35, Rate: 18.9 cps, Current: 50, -33
+[22:08:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9806 chunks (60.80%), ETA: 0:05:16, Rate: 20.0 cps, Current: 51, -33
+[22:08:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9837 chunks (60.99%), ETA: 0:05:13, Rate: 20.1 cps, Current: 52, -60
+[22:08:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9868 chunks (61.18%), ETA: 0:04:58, Rate: 21.0 cps, Current: 53, -59
+[22:08:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9906 chunks (61.42%), ETA: 0:04:51, Rate: 21.3 cps, Current: 54, -56
+[22:08:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9936 chunks (61.60%), ETA: 0:04:51, Rate: 21.3 cps, Current: 55, -63
+[22:08:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9964 chunks (61.78%), ETA: 0:04:51, Rate: 21.1 cps, Current: 56, -62
+[22:08:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9992 chunks (61.95%), ETA: 0:04:51, Rate: 21.0 cps, Current: 57, -59
+[22:08:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10023 chunks (62.14%), ETA: 0:04:46, Rate: 21.3 cps, Current: 58, -61
+[22:08:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10051 chunks (62.32%), ETA: 0:04:39, Rate: 21.7 cps, Current: 58, -39
+[22:08:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10074 chunks (62.46%), ETA: 0:04:38, Rate: 21.7 cps, Current: 59, -46
+[22:08:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10100 chunks (62.62%), ETA: 0:04:39, Rate: 21.6 cps, Current: 60, -49
+[22:08:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10133 chunks (62.82%), ETA: 0:04:37, Rate: 21.6 cps, Current: 61, -48
+[22:08:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10147 chunks (62.91%), ETA: 0:04:43, Rate: 21.1 cps, Current: 62, -33
+[22:08:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10178 chunks (63.10%), ETA: 0:04:36, Rate: 21.5 cps, Current: 63, -60
+[22:08:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10206 chunks (63.28%), ETA: 0:04:33, Rate: 21.7 cps, Current: 63, -38
+[22:08:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10209 chunks (63.30%), ETA: 0:04:53, Rate: 20.2 cps, Current: 0, -33
+[22:08:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10210 chunks (63.30%), ETA: 0:05:11, Rate: 19.0 cps, Current: 0, -34
+[22:08:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10222 chunks (63.38%), ETA: 0:05:10, Rate: 19.0 cps, Current: 0, -56
+[22:08:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10260 chunks (63.61%), ETA: 0:04:59, Rate: 19.6 cps, Current: 1, -43
+[22:08:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10279 chunks (63.73%), ETA: 0:05:05, Rate: 19.1 cps, Current: 2, -33
+[22:08:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10303 chunks (63.88%), ETA: 0:05:05, Rate: 19.1 cps, Current: 3, -59
+[22:08:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10343 chunks (64.13%), ETA: 0:04:57, Rate: 19.5 cps, Current: 4, -53
+[22:08:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10375 chunks (64.33%), ETA: 0:04:54, Rate: 19.6 cps, Current: 5, -52
+[22:08:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10407 chunks (64.52%), ETA: 0:04:51, Rate: 19.6 cps, Current: 6, -51
+[22:08:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10440 chunks (64.73%), ETA: 0:04:47, Rate: 19.8 cps, Current: 7, -50
+[22:08:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10457 chunks (64.83%), ETA: 0:04:55, Rate: 19.2 cps, Current: 8, -33
+[22:08:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10488 chunks (65.03%), ETA: 0:04:48, Rate: 19.5 cps, Current: 9, -60
+[22:08:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10523 chunks (65.24%), ETA: 0:04:44, Rate: 19.7 cps, Current: 10, -62
+[22:08:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10553 chunks (65.43%), ETA: 0:04:42, Rate: 19.7 cps, Current: 11, -62
+[22:08:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10581 chunks (65.60%), ETA: 0:04:39, Rate: 19.8 cps, Current: 12, -60
+[22:08:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10612 chunks (65.79%), ETA: 0:04:46, Rate: 19.2 cps, Current: 13, -60
+[22:08:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10643 chunks (65.99%), ETA: 0:04:47, Rate: 19.1 cps, Current: 14, -60
+[22:08:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10674 chunks (66.18%), ETA: 0:04:58, Rate: 18.3 cps, Current: 15, -33
+[22:08:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10705 chunks (66.37%), ETA: 0:04:54, Rate: 18.4 cps, Current: 16, -60
+[22:08:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10736 chunks (66.56%), ETA: 0:04:56, Rate: 18.2 cps, Current: 17, -60
+[22:08:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10767 chunks (66.76%), ETA: 0:04:16, Rate: 20.9 cps, Current: 18, -60
+[22:08:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10798 chunks (66.95%), ETA: 0:04:11, Rate: 21.2 cps, Current: 19, -61
+[22:08:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10829 chunks (67.14%), ETA: 0:04:10, Rate: 21.2 cps, Current: 20, -33
+[22:08:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10860 chunks (67.33%), ETA: 0:03:50, Rate: 22.9 cps, Current: 21, -60
+[22:08:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10895 chunks (67.55%), ETA: 0:03:48, Rate: 22.9 cps, Current: 22, -57
+[22:08:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10928 chunks (67.75%), ETA: 0:03:46, Rate: 22.9 cps, Current: 23, -63
+[22:09:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10961 chunks (67.96%), ETA: 0:03:42, Rate: 23.2 cps, Current: 24, -55
+[22:09:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10993 chunks (68.16%), ETA: 0:03:42, Rate: 23.1 cps, Current: 25, -54
+[22:09:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11026 chunks (68.36%), ETA: 0:03:41, Rate: 23.0 cps, Current: 26, -52
+[22:09:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11081 chunks (68.70%), ETA: 0:03:30, Rate: 24.0 cps, Current: 27, -44
+[22:09:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11201 chunks (69.45%), ETA: 0:03:33, Rate: 23.1 cps, Current: -32, -33
+[22:09:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11203 chunks (69.46%), ETA: 0:03:51, Rate: 21.3 cps, Current: -32, -63
+[22:09:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11210 chunks (69.50%), ETA: 0:03:54, Rate: 21.0 cps, Current: -31, -59
+[22:09:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11242 chunks (69.70%), ETA: 0:03:48, Rate: 21.4 cps, Current: -32, -44
+[22:09:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11268 chunks (69.86%), ETA: 0:03:43, Rate: 21.7 cps, Current: -30, -58
+[22:09:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11294 chunks (70.02%), ETA: 0:03:37, Rate: 22.2 cps, Current: -29, -63
+[22:09:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11328 chunks (70.23%), ETA: 0:03:32, Rate: 22.6 cps, Current: -28, -60
+[22:09:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11356 chunks (70.41%), ETA: 0:03:28, Rate: 22.9 cps, Current: -27, -63
+[22:09:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11387 chunks (70.60%), ETA: 0:03:26, Rate: 23.0 cps, Current: -26, -63
+[22:09:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11414 chunks (70.77%), ETA: 0:03:21, Rate: 23.4 cps, Current: -26, -36
+[22:09:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11441 chunks (70.93%), ETA: 0:03:19, Rate: 23.4 cps, Current: -25, -43
+[22:09:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11461 chunks (71.06%), ETA: 0:03:20, Rate: 23.3 cps, Current: -24, -51
+[22:09:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11488 chunks (71.23%), ETA: 0:03:19, Rate: 23.3 cps, Current: -23, -55
+[22:09:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11511 chunks (71.37%), ETA: 0:03:18, Rate: 23.3 cps, Current: -22, -63
+[22:09:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11542 chunks (71.56%), ETA: 0:03:19, Rate: 23.0 cps, Current: -21, -33
+[22:09:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11573 chunks (71.75%), ETA: 0:03:18, Rate: 22.9 cps, Current: -20, -63
+[22:09:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11604 chunks (71.94%), ETA: 0:03:19, Rate: 22.7 cps, Current: -19, -63
+[22:09:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11635 chunks (72.14%), ETA: 0:03:18, Rate: 22.6 cps, Current: -18, -63
+[22:09:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11666 chunks (72.33%), ETA: 0:03:21, Rate: 22.2 cps, Current: -17, -63
+[22:09:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11697 chunks (72.52%), ETA: 0:03:31, Rate: 21.0 cps, Current: -16, -63
+[22:09:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11728 chunks (72.71%), ETA: 0:03:32, Rate: 20.7 cps, Current: -15, -63
+[22:09:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11745 chunks (72.82%), ETA: 0:03:33, Rate: 20.5 cps, Current: -15, -49
+[22:09:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11768 chunks (72.96%), ETA: 0:03:32, Rate: 20.5 cps, Current: -14, -54
+[22:09:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11800 chunks (73.16%), ETA: 0:03:29, Rate: 20.7 cps, Current: -13, -53
+[22:09:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11831 chunks (73.35%), ETA: 0:03:11, Rate: 22.4 cps, Current: -12, -53
+[22:09:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11857 chunks (73.51%), ETA: 0:03:10, Rate: 22.4 cps, Current: -11, -58
+[22:09:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11883 chunks (73.67%), ETA: 0:03:05, Rate: 22.8 cps, Current: -10, -63
+[22:09:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11917 chunks (73.89%), ETA: 0:03:04, Rate: 22.8 cps, Current: -9, -60
+[22:09:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11945 chunks (74.06%), ETA: 0:03:04, Rate: 22.7 cps, Current: -8, -63
+[22:09:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11981 chunks (74.28%), ETA: 0:03:06, Rate: 22.3 cps, Current: -7, -58
+[22:09:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12015 chunks (74.49%), ETA: 0:03:03, Rate: 22.4 cps, Current: -6, -55
+[22:09:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12072 chunks (74.85%), ETA: 0:02:53, Rate: 23.4 cps, Current: -5, -42
+[22:09:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12193 chunks (75.60%), ETA: 0:03:04, Rate: 21.4 cps, Current: -63, -59
+[22:09:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12208 chunks (75.69%), ETA: 0:03:05, Rate: 21.2 cps, Current: -63, -55
+[22:09:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12220 chunks (75.76%), ETA: 0:03:09, Rate: 20.6 cps, Current: -63, -47
+[22:10:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12262 chunks (76.02%), ETA: 0:03:02, Rate: 21.2 cps, Current: -62, -41
+[22:10:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12294 chunks (76.22%), ETA: 0:02:55, Rate: 21.8 cps, Current: -60, -58
+[22:10:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12325 chunks (76.42%), ETA: 0:02:52, Rate: 22.0 cps, Current: -59, -58
+[22:10:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12350 chunks (76.57%), ETA: 0:02:51, Rate: 22.1 cps, Current: -58, -63
+[22:10:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12380 chunks (76.76%), ETA: 0:02:47, Rate: 22.3 cps, Current: -57, -63
+[22:10:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12415 chunks (76.97%), ETA: 0:02:42, Rate: 22.9 cps, Current: -56, -58
+[22:10:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12441 chunks (77.13%), ETA: 0:02:39, Rate: 23.1 cps, Current: -55, -63
+[22:10:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12472 chunks (77.33%), ETA: 0:02:38, Rate: 23.1 cps, Current: -54, -63
+[22:10:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12503 chunks (77.52%), ETA: 0:02:38, Rate: 22.8 cps, Current: -53, -63
+[22:10:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12534 chunks (77.71%), ETA: 0:02:37, Rate: 22.8 cps, Current: -52, -63
+[22:10:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12565 chunks (77.90%), ETA: 0:02:35, Rate: 23.0 cps, Current: -51, -63
+[22:10:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12596 chunks (78.10%), ETA: 0:02:35, Rate: 22.7 cps, Current: -50, -63
+[22:10:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12623 chunks (78.26%), ETA: 0:02:33, Rate: 22.9 cps, Current: -50, -36
+[22:10:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12642 chunks (78.38%), ETA: 0:02:33, Rate: 22.7 cps, Current: -49, -48
+[22:10:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12663 chunks (78.51%), ETA: 0:02:34, Rate: 22.4 cps, Current: -48, -58
+[22:10:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12689 chunks (78.67%), ETA: 0:02:42, Rate: 21.2 cps, Current: -47, -63
+[22:10:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12720 chunks (78.86%), ETA: 0:02:26, Rate: 23.3 cps, Current: -46, -63
+[22:10:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12751 chunks (79.06%), ETA: 0:02:26, Rate: 23.1 cps, Current: -45, -63
+[22:10:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12782 chunks (79.25%), ETA: 0:02:25, Rate: 23.0 cps, Current: -44, -63
+[22:10:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12813 chunks (79.44%), ETA: 0:02:25, Rate: 22.9 cps, Current: -43, -63
+[22:10:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12844 chunks (79.63%), ETA: 0:02:24, Rate: 22.7 cps, Current: -42, -63
+[22:10:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12875 chunks (79.83%), ETA: 0:02:21, Rate: 22.9 cps, Current: -41, -63
+[22:10:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12906 chunks (80.02%), ETA: 0:02:17, Rate: 23.5 cps, Current: -40, -63
+[22:10:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12937 chunks (80.21%), ETA: 0:02:20, Rate: 22.8 cps, Current: -39, -63
+[22:10:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12968 chunks (80.40%), ETA: 0:02:22, Rate: 22.3 cps, Current: -38, -63
+[22:10:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12995 chunks (80.57%), ETA: 0:02:19, Rate: 22.4 cps, Current: -38, -36
+[22:10:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13048 chunks (80.90%), ETA: 0:02:11, Rate: 23.4 cps, Current: -35, -57
+[22:10:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13154 chunks (81.55%), ETA: 0:02:05, Rate: 23.7 cps, Current: -62, -32
+[22:10:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13156 chunks (81.57%), ETA: 0:02:18, Rate: 21.5 cps, Current: -62, -31
+[22:10:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13158 chunks (81.58%), ETA: 0:02:28, Rate: 20.0 cps, Current: -63, -30
+[22:10:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13174 chunks (81.68%), ETA: 0:02:30, Rate: 19.6 cps, Current: -63, -15
+[22:10:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13214 chunks (81.93%), ETA: 0:02:27, Rate: 19.8 cps, Current: -60, -30
+[22:10:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13247 chunks (82.13%), ETA: 0:02:22, Rate: 20.3 cps, Current: -59, -31
+[22:10:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13283 chunks (82.35%), ETA: 0:02:18, Rate: 20.5 cps, Current: -58, -29
+[22:10:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13322 chunks (82.60%), ETA: 0:02:13, Rate: 21.0 cps, Current: -59, -5
+[22:10:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13357 chunks (82.81%), ETA: 0:02:09, Rate: 21.4 cps, Current: -58, -4
+[22:10:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13397 chunks (83.06%), ETA: 0:02:05, Rate: 21.8 cps, Current: -54, -32
+[22:10:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13437 chunks (83.31%), ETA: 0:01:59, Rate: 22.4 cps, Current: -54, -25
+[22:10:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13481 chunks (83.58%), ETA: 0:01:53, Rate: 23.2 cps, Current: -54, -19
+[22:10:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13534 chunks (83.91%), ETA: 0:01:47, Rate: 24.2 cps, Current: -51, -5
+[22:10:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13575 chunks (84.17%), ETA: 0:01:42, Rate: 25.0 cps, Current: -49, -23
+[22:10:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13636 chunks (84.54%), ETA: 0:01:34, Rate: 26.3 cps, Current: -47, -23
+[22:10:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13719 chunks (85.06%), ETA: 0:01:25, Rate: 28.3 cps, Current: -47, -6
+[22:10:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13781 chunks (85.44%), ETA: 0:01:20, Rate: 29.3 cps, Current: -44, -17
+[22:10:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13841 chunks (85.81%), ETA: 0:01:14, Rate: 30.6 cps, Current: -44, -9
+[22:11:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13895 chunks (86.15%), ETA: 0:01:10, Rate: 31.9 cps, Current: -40, -2
+[22:11:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13980 chunks (86.68%), ETA: 0:01:03, Rate: 33.8 cps, Current: -38, -32
+[22:11:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14146 chunks (87.71%), ETA: 0:00:54, Rate: 36.2 cps, Current: -62, 0
+[22:11:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14148 chunks (87.72%), ETA: 0:00:58, Rate: 34.0 cps, Current: -62, 1
+[22:11:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14150 chunks (87.73%), ETA: 0:00:57, Rate: 34.4 cps, Current: -63, 25
+[22:11:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14176 chunks (87.89%), ETA: 0:00:56, Rate: 34.7 cps, Current: -62, 3
+[22:11:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14207 chunks (88.08%), ETA: 0:00:55, Rate: 34.5 cps, Current: -61, 2
+[22:11:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14230 chunks (88.23%), ETA: 0:00:55, Rate: 34.4 cps, Current: -61, 19
+[22:11:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14264 chunks (88.44%), ETA: 0:00:54, Rate: 34.3 cps, Current: -60, 20
+[22:11:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14280 chunks (88.54%), ETA: 0:00:54, Rate: 33.7 cps, Current: -58, 0
+[22:11:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14311 chunks (88.73%), ETA: 0:00:54, Rate: 33.3 cps, Current: -58, 6
+[22:11:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14334 chunks (88.87%), ETA: 0:00:54, Rate: 33.1 cps, Current: -57, 4
+[22:11:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14363 chunks (89.05%), ETA: 0:00:53, Rate: 33.1 cps, Current: -57, 22
+[22:11:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14390 chunks (89.22%), ETA: 0:00:53, Rate: 32.6 cps, Current: -56, 17
+[22:11:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14425 chunks (89.44%), ETA: 0:00:53, Rate: 32.1 cps, Current: -53, 0
+[22:11:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14458 chunks (89.64%), ETA: 0:00:53, Rate: 31.4 cps, Current: -54, 18
+[22:11:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14496 chunks (89.88%), ETA: 0:00:52, Rate: 31.1 cps, Current: -52, 5
+[22:11:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14530 chunks (90.09%), ETA: 0:00:52, Rate: 30.4 cps, Current: -51, 5
+[22:11:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14564 chunks (90.30%), ETA: 0:00:54, Rate: 28.7 cps, Current: -50, 14
+[22:11:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14596 chunks (90.50%), ETA: 0:00:55, Rate: 27.8 cps, Current: -49, 6
+[22:11:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14627 chunks (90.69%), ETA: 0:00:55, Rate: 26.8 cps, Current: -48, 14
+[22:11:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14663 chunks (90.91%), ETA: 0:00:55, Rate: 26.2 cps, Current: -47, 7
+[22:11:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14693 chunks (91.10%), ETA: 0:00:58, Rate: 24.4 cps, Current: -45, 5
+[22:11:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14722 chunks (91.28%), ETA: 0:01:00, Rate: 23.4 cps, Current: -44, 1
+[22:11:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14757 chunks (91.49%), ETA: 0:00:57, Rate: 23.8 cps, Current: -45, 21
+[22:11:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14790 chunks (91.70%), ETA: 0:00:55, Rate: 24.2 cps, Current: -42, 6
+[22:11:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14823 chunks (91.90%), ETA: 0:00:53, Rate: 24.5 cps, Current: -43, 21
+[22:11:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14860 chunks (92.13%), ETA: 0:00:51, Rate: 24.9 cps, Current: -41, 14
+[22:11:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14898 chunks (92.37%), ETA: 0:00:49, Rate: 25.1 cps, Current: -42, 31
+[22:11:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14934 chunks (92.59%), ETA: 0:00:44, Rate: 26.9 cps, Current: -38, 17
+[22:11:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14968 chunks (92.80%), ETA: 0:00:40, Rate: 28.7 cps, Current: -39, 22
+[22:11:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15014 chunks (93.09%), ETA: 0:00:38, Rate: 29.2 cps, Current: -35, 0
+[22:11:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15131 chunks (93.81%), ETA: 0:00:30, Rate: 32.4 cps, Current: -34, 29
+[22:11:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15138 chunks (93.86%), ETA: 0:00:35, Rate: 28.0 cps, Current: -62, 32
+[22:11:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15140 chunks (93.87%), ETA: 0:00:38, Rate: 25.9 cps, Current: -62, 33
+[22:11:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15142 chunks (93.88%), ETA: 0:00:41, Rate: 23.5 cps, Current: -63, 34
+[22:11:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15190 chunks (94.18%), ETA: 0:00:39, Rate: 23.8 cps, Current: -62, 52
+[22:11:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15222 chunks (94.38%), ETA: 0:00:38, Rate: 23.7 cps, Current: -61, 51
+[22:11:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15256 chunks (94.59%), ETA: 0:00:36, Rate: 23.7 cps, Current: -60, 52
+[22:11:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15290 chunks (94.80%), ETA: 0:00:35, Rate: 23.6 cps, Current: -59, 53
+[22:11:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15320 chunks (94.98%), ETA: 0:00:34, Rate: 23.6 cps, Current: -58, 50
+[22:11:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15337 chunks (95.09%), ETA: 0:00:34, Rate: 22.9 cps, Current: -57, 39
+[22:12:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15370 chunks (95.29%), ETA: 0:00:33, Rate: 22.8 cps, Current: -56, 40
+[22:12:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15403 chunks (95.50%), ETA: 0:00:32, Rate: 22.3 cps, Current: -55, 41
+[22:12:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15436 chunks (95.70%), ETA: 0:00:31, Rate: 21.9 cps, Current: -54, 42
+[22:12:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15469 chunks (95.91%), ETA: 0:00:30, Rate: 21.7 cps, Current: -53, 43
+[22:12:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15501 chunks (96.11%), ETA: 0:00:29, Rate: 21.5 cps, Current: -53, 63
+[22:12:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15523 chunks (96.24%), ETA: 0:00:28, Rate: 21.1 cps, Current: -51, 39
+[22:12:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15541 chunks (96.35%), ETA: 0:00:28, Rate: 20.6 cps, Current: -51, 50
+[22:12:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15568 chunks (96.52%), ETA: 0:00:27, Rate: 20.3 cps, Current: -50, 46
+[22:12:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15593 chunks (96.68%), ETA: 0:00:27, Rate: 19.7 cps, Current: -50, 61
+[22:12:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15609 chunks (96.78%), ETA: 0:00:32, Rate: 16.2 cps, Current: -49, 52
+[22:12:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15636 chunks (96.94%), ETA: 0:00:24, Rate: 20.2 cps, Current: -48, 49
+[22:12:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15661 chunks (97.10%), ETA: 0:00:23, Rate: 20.3 cps, Current: -48, 63
+[22:12:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15677 chunks (97.20%), ETA: 0:00:22, Rate: 20.1 cps, Current: -47, 54
+[22:12:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15704 chunks (97.36%), ETA: 0:00:21, Rate: 20.2 cps, Current: -45, 35
+[22:12:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15728 chunks (97.51%), ETA: 0:00:19, Rate: 20.3 cps, Current: -45, 46
+[22:12:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15747 chunks (97.63%), ETA: 0:00:17, Rate: 21.9 cps, Current: -44, 39
+[22:12:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15772 chunks (97.79%), ETA: 0:00:16, Rate: 21.9 cps, Current: -44, 53
+[22:12:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15795 chunks (97.93%), ETA: 0:00:14, Rate: 23.7 cps, Current: -43, 48
+[22:12:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15815 chunks (98.05%), ETA: 0:00:13, Rate: 23.5 cps, Current: -42, 41
+[22:12:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15840 chunks (98.21%), ETA: 0:00:12, Rate: 23.5 cps, Current: -42, 55
+[22:12:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15856 chunks (98.31%), ETA: 0:00:12, Rate: 22.6 cps, Current: -41, 46
+[22:12:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15881 chunks (98.46%), ETA: 0:00:11, Rate: 22.2 cps, Current: -41, 60
+[22:12:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15897 chunks (98.56%), ETA: 0:00:10, Rate: 21.7 cps, Current: -39, 36
+[22:12:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15909 chunks (98.64%), ETA: 0:00:10, Rate: 21.1 cps, Current: -40, 58
+[22:12:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15930 chunks (98.77%), ETA: 0:00:09, Rate: 20.8 cps, Current: -39, 49
+[22:12:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15937 chunks (98.81%), ETA: 0:00:09, Rate: 20.4 cps, Current: -39, 53
+[22:12:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15947 chunks (98.87%), ETA: 0:00:09, Rate: 19.8 cps, Current: -39, 60
+[22:12:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15982 chunks (99.09%), ETA: 0:00:07, Rate: 20.1 cps, Current: -38, 59
+[22:12:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16058 chunks (99.56%), ETA: 0:00:03, Rate: 22.0 cps, Current: -35, 56
+[22:12:32] [Server thread/INFO]: [Chunky] Task finished for world. Processed: 16129 chunks (100.00%), Total time: 0:08:53
+[22:13:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Drexco> asd
+[22:13:40] [Server thread/INFO]: Drexco lost connection: Disconnected
+[22:13:40] [Server thread/INFO]: [voicechat] Disconnecting client Drexco
+[22:13:40] [Server thread/INFO]: Drexco left the game
+[22:15:14] [Server thread/INFO]: [Chunky] Radius changed to 200.
+[22:15:16] [Server thread/INFO]: [Chunky] Task started in world for the square region centered at 0, 0 with radius 200.
+[22:15:16] [Chunky-world Thread/INFO]: [Chunky] Task finished for world. Processed: 729 chunks (100.00%), Total time: 0:00:00
+[22:15:21] [Server thread/INFO]: chunky start - Start a new chunk generation task
+[22:15:25] [Server thread/INFO]: [Chunky] Radius changed to 1200.
+[22:15:26] [Server thread/INFO]: [Chunky] Task started in world for the square region centered at 0, 0 with radius 1200.
+[22:15:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9221 chunks (40.44%), ETA: 0:13:29, Rate: 16.8 cps, Current: 64, 44
+[22:15:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9251 chunks (40.57%), ETA: 0:08:26, Rate: 26.7 cps, Current: 65, 47
+[22:15:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9285 chunks (40.72%), ETA: 0:08:31, Rate: 26.4 cps, Current: 66, 46
+[22:15:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9319 chunks (40.87%), ETA: 0:08:12, Rate: 27.4 cps, Current: 67, 45
+[22:15:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9345 chunks (40.99%), ETA: 0:08:20, Rate: 26.9 cps, Current: 68, 49
+[22:15:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9366 chunks (41.08%), ETA: 0:08:59, Rate: 24.9 cps, Current: 68, 53
+[22:15:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9398 chunks (41.22%), ETA: 0:08:39, Rate: 25.8 cps, Current: 69, 32
+[22:15:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9421 chunks (41.32%), ETA: 0:08:48, Rate: 25.3 cps, Current: 70, 42
+[22:15:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9435 chunks (41.38%), ETA: 0:09:15, Rate: 24.0 cps, Current: 70, 58
+[22:15:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9465 chunks (41.51%), ETA: 0:09:25, Rate: 23.6 cps, Current: 71, 56
+[22:15:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9501 chunks (41.67%), ETA: 0:09:15, Rate: 23.9 cps, Current: 72, 60
+[22:15:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9537 chunks (41.83%), ETA: 0:09:28, Rate: 23.3 cps, Current: 74, 48
+[22:15:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9569 chunks (41.97%), ETA: 0:09:40, Rate: 22.8 cps, Current: 75, 49
+[22:15:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9597 chunks (42.09%), ETA: 0:09:40, Rate: 22.7 cps, Current: 64, 12
+[22:15:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9619 chunks (42.19%), ETA: 0:09:42, Rate: 22.6 cps, Current: 64, 18
+[22:15:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9643 chunks (42.29%), ETA: 0:09:39, Rate: 22.7 cps, Current: 65, 3
+[22:15:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9665 chunks (42.39%), ETA: 0:09:48, Rate: 22.3 cps, Current: 66, 8
+[22:15:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9697 chunks (42.53%), ETA: 0:09:40, Rate: 22.6 cps, Current: 67, 31
+[22:15:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9729 chunks (42.67%), ETA: 0:09:33, Rate: 22.8 cps, Current: 68, 10
+[22:15:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9765 chunks (42.83%), ETA: 0:09:18, Rate: 23.4 cps, Current: 69, 8
+[22:15:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9799 chunks (42.98%), ETA: 0:09:08, Rate: 23.7 cps, Current: 70, 7
+[22:15:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9825 chunks (43.09%), ETA: 0:09:10, Rate: 23.6 cps, Current: 71, 31
+[22:15:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9857 chunks (43.23%), ETA: 0:09:09, Rate: 23.6 cps, Current: 72, 10
+[22:15:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9894 chunks (43.39%), ETA: 0:09:00, Rate: 23.9 cps, Current: 73, 13
+[22:15:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9928 chunks (43.54%), ETA: 0:08:55, Rate: 24.0 cps, Current: 74, 14
+[22:15:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9959 chunks (43.68%), ETA: 0:08:52, Rate: 24.1 cps, Current: 75, 14
+[22:16:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9975 chunks (43.75%), ETA: 0:09:02, Rate: 23.7 cps, Current: 75, 0
+[22:16:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9985 chunks (43.79%), ETA: 0:09:28, Rate: 22.6 cps, Current: 64, -32
+[22:16:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10017 chunks (43.93%), ETA: 0:09:28, Rate: 22.5 cps, Current: 65, -32
+[22:16:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10049 chunks (44.07%), ETA: 0:09:17, Rate: 22.9 cps, Current: 66, -32
+[22:16:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10081 chunks (44.21%), ETA: 0:09:21, Rate: 22.6 cps, Current: 67, -32
+[22:16:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10113 chunks (44.35%), ETA: 0:09:08, Rate: 23.1 cps, Current: 68, -32
+[22:16:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10145 chunks (44.49%), ETA: 0:08:58, Rate: 23.5 cps, Current: 69, -32
+[22:16:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10177 chunks (44.63%), ETA: 0:09:01, Rate: 23.3 cps, Current: 70, -32
+[22:16:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10209 chunks (44.77%), ETA: 0:09:04, Rate: 23.1 cps, Current: 71, -1
+[22:16:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10241 chunks (44.91%), ETA: 0:08:58, Rate: 23.3 cps, Current: 72, -32
+[22:16:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10266 chunks (45.02%), ETA: 0:09:04, Rate: 23.0 cps, Current: 72, -10
+[22:16:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10273 chunks (45.06%), ETA: 0:09:16, Rate: 22.5 cps, Current: 73, -32
+[22:16:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10305 chunks (45.20%), ETA: 0:09:21, Rate: 22.2 cps, Current: 74, -32
+[22:16:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10331 chunks (45.31%), ETA: 0:09:13, Rate: 22.5 cps, Current: 74, -9
+[22:16:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10337 chunks (45.34%), ETA: 0:09:34, Rate: 21.7 cps, Current: 75, -32
+[22:16:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10369 chunks (45.48%), ETA: 0:10:08, Rate: 20.4 cps, Current: 64, -60
+[22:16:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10401 chunks (45.62%), ETA: 0:10:19, Rate: 20.0 cps, Current: 65, -60
+[22:16:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10433 chunks (45.76%), ETA: 0:10:07, Rate: 20.4 cps, Current: 66, -60
+[22:16:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10465 chunks (45.90%), ETA: 0:10:03, Rate: 20.4 cps, Current: 67, -60
+[22:16:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10497 chunks (46.04%), ETA: 0:10:05, Rate: 20.3 cps, Current: 68, -60
+[22:16:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10529 chunks (46.18%), ETA: 0:10:05, Rate: 20.3 cps, Current: 69, -60
+[22:16:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10561 chunks (46.32%), ETA: 0:10:06, Rate: 20.2 cps, Current: 70, -60
+[22:16:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10593 chunks (46.46%), ETA: 0:09:49, Rate: 20.7 cps, Current: 71, -61
+[22:16:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10625 chunks (46.60%), ETA: 0:09:22, Rate: 21.6 cps, Current: 72, -60
+[22:16:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10657 chunks (46.74%), ETA: 0:09:17, Rate: 21.8 cps, Current: 73, -60
+[22:16:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10689 chunks (46.88%), ETA: 0:09:19, Rate: 21.7 cps, Current: 74, -60
+[22:16:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11643 chunks (51.06%), ETA: 0:08:50, Rate: 21.0 cps, Current: 75, -60
+[22:16:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12667 chunks (55.55%), ETA: 0:08:09, Rate: 20.7 cps, Current: 33, -64
+[22:16:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13691 chunks (60.05%), ETA: 0:07:24, Rate: 20.5 cps, Current: 1, -64
+[22:16:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13695 chunks (60.06%), ETA: 0:07:59, Rate: 19.0 cps, Current: 2, -64
+[22:16:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13858 chunks (60.78%), ETA: 0:07:43, Rate: 19.3 cps, Current: -4, -64
+[22:16:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14009 chunks (61.44%), ETA: 0:07:46, Rate: 18.9 cps, Current: -9, -64
+[22:16:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14718 chunks (64.55%), ETA: 0:07:37, Rate: 17.7 cps, Current: -54, -64
+[22:16:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15035 chunks (65.94%), ETA: 0:07:05, Rate: 18.3 cps, Current: -48, -64
+[22:16:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15842 chunks (69.48%), ETA: 0:06:20, Rate: 18.3 cps, Current: -45, -64
+[22:16:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16162 chunks (70.88%), ETA: 0:06:09, Rate: 18.0 cps, Current: -64, -21
+[22:16:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17102 chunks (75.01%), ETA: 0:05:29, Rate: 17.3 cps, Current: -64, -3
+[22:16:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17186 chunks (75.37%), ETA: 0:05:34, Rate: 16.8 cps, Current: -64, 11
+[22:16:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17881 chunks (78.42%), ETA: 0:05:10, Rate: 15.9 cps, Current: -64, 24
+[22:16:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17897 chunks (78.49%), ETA: 0:05:21, Rate: 15.2 cps, Current: -64, 40
+[22:16:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17923 chunks (78.61%), ETA: 0:05:24, Rate: 15.0 cps, Current: -62, 64
+[22:17:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17924 chunks (78.61%), ETA: 0:06:02, Rate: 13.4 cps, Current: -63, 65
+[22:17:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17927 chunks (78.62%), ETA: 0:06:13, Rate: 13.0 cps, Current: -60, 64
+[22:17:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17939 chunks (78.68%), ETA: 0:06:54, Rate: 11.7 cps, Current: -64, 66
+[22:17:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17948 chunks (78.72%), ETA: 0:07:13, Rate: 11.2 cps, Current: -60, 66
+[22:17:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17967 chunks (78.80%), ETA: 0:07:03, Rate: 11.4 cps, Current: -60, 67
+[22:17:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17978 chunks (78.85%), ETA: 0:07:23, Rate: 10.9 cps, Current: -61, 75
+[22:17:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18008 chunks (78.98%), ETA: 0:06:56, Rate: 11.5 cps, Current: -55, 64
+[22:17:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18033 chunks (79.09%), ETA: 0:06:54, Rate: 11.5 cps, Current: -55, 68
+[22:17:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18058 chunks (79.20%), ETA: 0:06:06, Rate: 12.9 cps, Current: -52, 66
+[22:17:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18084 chunks (79.31%), ETA: 0:05:53, Rate: 13.4 cps, Current: -49, 65
+[22:17:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18111 chunks (79.43%), ETA: 0:05:39, Rate: 13.8 cps, Current: -47, 65
+[22:17:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18140 chunks (79.56%), ETA: 0:05:39, Rate: 13.7 cps, Current: -46, 67
+[22:17:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18166 chunks (79.67%), ETA: 0:05:19, Rate: 14.5 cps, Current: -46, 75
+[22:17:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18200 chunks (79.82%), ETA: 0:04:46, Rate: 16.1 cps, Current: -41, 67
+[22:17:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18225 chunks (79.93%), ETA: 0:04:39, Rate: 16.4 cps, Current: -38, 66
+[22:17:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18246 chunks (80.02%), ETA: 0:04:37, Rate: 16.4 cps, Current: -36, 65
+[22:17:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18259 chunks (80.08%), ETA: 0:04:41, Rate: 16.1 cps, Current: -35, 65
+[22:17:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18272 chunks (80.14%), ETA: 0:04:46, Rate: 15.8 cps, Current: -36, 74
+[22:17:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18284 chunks (80.19%), ETA: 0:04:51, Rate: 15.5 cps, Current: -36, 75
+[22:17:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18296 chunks (80.24%), ETA: 0:04:52, Rate: 15.4 cps, Current: -33, 67
+[22:17:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18308 chunks (80.29%), ETA: 0:04:55, Rate: 15.2 cps, Current: -32, 67
+[22:17:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18321 chunks (80.35%), ETA: 0:04:53, Rate: 15.2 cps, Current: -30, 66
+[22:17:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18344 chunks (80.45%), ETA: 0:04:40, Rate: 15.9 cps, Current: -29, 67
+[22:17:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18369 chunks (80.56%), ETA: 0:04:30, Rate: 16.4 cps, Current: -28, 74
+[22:17:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18396 chunks (80.68%), ETA: 0:04:24, Rate: 16.7 cps, Current: -25, 68
+[22:17:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18426 chunks (80.81%), ETA: 0:04:18, Rate: 16.9 cps, Current: -20, 64
+[22:17:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18452 chunks (80.93%), ETA: 0:04:04, Rate: 17.8 cps, Current: -21, 74
+[22:17:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18480 chunks (81.05%), ETA: 0:03:51, Rate: 18.7 cps, Current: -16, 65
+[22:17:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18508 chunks (81.17%), ETA: 0:03:39, Rate: 19.5 cps, Current: -16, 70
+[22:17:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18536 chunks (81.29%), ETA: 0:03:36, Rate: 19.7 cps, Current: -13, 67
+[22:17:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18561 chunks (81.40%), ETA: 0:03:28, Rate: 20.3 cps, Current: -12, 74
+[22:17:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18596 chunks (81.56%), ETA: 0:03:22, Rate: 20.7 cps, Current: -8, 67
+[22:17:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18620 chunks (81.66%), ETA: 0:03:17, Rate: 21.2 cps, Current: -6, 67
+[22:17:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18644 chunks (81.77%), ETA: 0:03:18, Rate: 21.0 cps, Current: -4, 67
+[22:17:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18668 chunks (81.87%), ETA: 0:03:16, Rate: 21.0 cps, Current: -2, 67
+[22:17:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18694 chunks (81.99%), ETA: 0:03:16, Rate: 20.9 cps, Current: -2, 75
+[22:17:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18722 chunks (82.11%), ETA: 0:03:14, Rate: 20.9 cps, Current: 2, 69
+[22:17:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18752 chunks (82.24%), ETA: 0:03:13, Rate: 21.0 cps, Current: 5, 67
+[22:17:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18777 chunks (82.35%), ETA: 0:03:12, Rate: 20.9 cps, Current: 5, 75
+[22:17:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18802 chunks (82.46%), ETA: 0:03:11, Rate: 20.9 cps, Current: 7, 75
+[22:17:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18828 chunks (82.58%), ETA: 0:03:10, Rate: 20.8 cps, Current: 11, 68
+[22:17:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18855 chunks (82.69%), ETA: 0:03:08, Rate: 20.9 cps, Current: 15, 65
+[22:17:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18883 chunks (82.82%), ETA: 0:03:01, Rate: 21.5 cps, Current: 17, 65
+[22:17:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18908 chunks (82.93%), ETA: 0:02:53, Rate: 22.4 cps, Current: 17, 74
+[22:17:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18937 chunks (83.05%), ETA: 0:02:51, Rate: 22.6 cps, Current: 22, 65
+[22:17:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18968 chunks (83.19%), ETA: 0:02:43, Rate: 23.5 cps, Current: 23, 67
+[22:17:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18992 chunks (83.29%), ETA: 0:02:38, Rate: 24.0 cps, Current: 25, 67
+[22:17:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19016 chunks (83.40%), ETA: 0:02:34, Rate: 24.4 cps, Current: 27, 67
+[22:17:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19044 chunks (83.52%), ETA: 0:02:33, Rate: 24.4 cps, Current: 31, 65
+[22:17:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19076 chunks (83.66%), ETA: 0:02:28, Rate: 25.1 cps, Current: 32, 67
+[22:17:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19100 chunks (83.77%), ETA: 0:02:27, Rate: 25.1 cps, Current: 34, 67
+[22:17:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19124 chunks (83.87%), ETA: 0:02:27, Rate: 25.0 cps, Current: 36, 67
+[22:17:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19151 chunks (83.99%), ETA: 0:02:26, Rate: 25.0 cps, Current: 36, 75
+[22:17:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19178 chunks (84.11%), ETA: 0:02:25, Rate: 24.9 cps, Current: 42, 65
+[22:18:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19205 chunks (84.23%), ETA: 0:02:23, Rate: 25.1 cps, Current: 42, 73
+[22:18:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19231 chunks (84.34%), ETA: 0:02:22, Rate: 25.0 cps, Current: 46, 65
+[22:18:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19256 chunks (84.45%), ETA: 0:02:22, Rate: 24.8 cps, Current: 45, 75
+[22:18:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19281 chunks (84.56%), ETA: 0:02:22, Rate: 24.7 cps, Current: 50, 66
+[22:18:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19313 chunks (84.70%), ETA: 0:02:20, Rate: 24.9 cps, Current: 51, 73
+[22:18:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19339 chunks (84.82%), ETA: 0:02:18, Rate: 24.9 cps, Current: 55, 65
+[22:18:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19364 chunks (84.93%), ETA: 0:02:18, Rate: 24.9 cps, Current: 54, 75
+[22:18:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19394 chunks (85.06%), ETA: 0:02:16, Rate: 24.9 cps, Current: 58, 70
+[22:18:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19422 chunks (85.18%), ETA: 0:02:14, Rate: 25.0 cps, Current: 62, 65
+[22:18:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19447 chunks (85.29%), ETA: 0:02:15, Rate: 24.8 cps, Current: 64, 65
+[22:18:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19460 chunks (85.35%), ETA: 0:02:17, Rate: 24.2 cps, Current: 63, 74
+[22:18:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19472 chunks (85.40%), ETA: 0:02:21, Rate: 23.5 cps, Current: 65, 67
+[22:18:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19484 chunks (85.45%), ETA: 0:02:25, Rate: 22.8 cps, Current: 66, 67
+[22:18:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19502 chunks (85.53%), ETA: 0:02:26, Rate: 22.5 cps, Current: 67, 70
+[22:18:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19529 chunks (85.65%), ETA: 0:02:24, Rate: 22.7 cps, Current: 69, 73
+[22:18:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19555 chunks (85.76%), ETA: 0:02:23, Rate: 22.6 cps, Current: 73, 65
+[22:18:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19570 chunks (85.83%), ETA: 0:02:25, Rate: 22.2 cps, Current: 74, 66
+[22:18:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19583 chunks (85.89%), ETA: 0:02:28, Rate: 21.7 cps, Current: 74, 68
+[22:18:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19594 chunks (85.93%), ETA: 0:02:32, Rate: 21.1 cps, Current: 75, 68
+[22:18:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19614 chunks (86.02%), ETA: 0:02:37, Rate: 20.3 cps, Current: 65, -74
+[22:18:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19647 chunks (86.17%), ETA: 0:02:33, Rate: 20.6 cps, Current: 68, -67
+[22:18:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19678 chunks (86.30%), ETA: 0:02:31, Rate: 20.6 cps, Current: 71, -67
+[22:18:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19701 chunks (86.40%), ETA: 0:02:31, Rate: 20.5 cps, Current: 72, -74
+[22:18:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19713 chunks (86.46%), ETA: 0:02:34, Rate: 20.0 cps, Current: 72, -75
+[22:18:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19715 chunks (86.47%), ETA: 0:02:40, Rate: 19.2 cps, Current: 74, -68
+[22:18:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19726 chunks (86.51%), ETA: 0:02:44, Rate: 18.7 cps, Current: 74, -75
+[22:18:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19746 chunks (86.60%), ETA: 0:02:52, Rate: 17.8 cps, Current: 33, -74
+[22:18:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19776 chunks (86.73%), ETA: 0:02:48, Rate: 17.9 cps, Current: 34, -75
+[22:18:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19798 chunks (86.83%), ETA: 0:02:48, Rate: 17.8 cps, Current: 36, -75
+[22:18:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19831 chunks (86.97%), ETA: 0:02:45, Rate: 17.9 cps, Current: 41, -66
+[22:18:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19857 chunks (87.09%), ETA: 0:02:42, Rate: 18.1 cps, Current: 43, -69
+[22:18:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19885 chunks (87.21%), ETA: 0:02:40, Rate: 18.2 cps, Current: 46, -66
+[22:18:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19909 chunks (87.32%), ETA: 0:02:39, Rate: 18.1 cps, Current: 47, -74
+[22:18:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19936 chunks (87.43%), ETA: 0:02:37, Rate: 18.2 cps, Current: 50, -71
+[22:18:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19964 chunks (87.56%), ETA: 0:02:37, Rate: 18.0 cps, Current: 53, -68
+[22:18:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19997 chunks (87.70%), ETA: 0:02:33, Rate: 18.3 cps, Current: 58, -65
+[22:18:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20022 chunks (87.81%), ETA: 0:02:28, Rate: 18.7 cps, Current: 58, -67
+[22:18:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20085 chunks (88.09%), ETA: 0:02:15, Rate: 20.0 cps, Current: 2, -65
+[22:18:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20106 chunks (88.18%), ETA: 0:02:16, Rate: 19.7 cps, Current: 3, -74
+[22:18:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20127 chunks (88.27%), ETA: 0:02:17, Rate: 19.5 cps, Current: 0, -67
+[22:18:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20161 chunks (88.42%), ETA: 0:02:11, Rate: 20.1 cps, Current: 6, -74
+[22:18:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20190 chunks (88.55%), ETA: 0:02:06, Rate: 20.7 cps, Current: 9, -72
+[22:18:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20217 chunks (88.67%), ETA: 0:02:02, Rate: 21.1 cps, Current: 12, -67
+[22:18:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20239 chunks (88.76%), ETA: 0:01:57, Rate: 21.8 cps, Current: 13, -74
+[22:18:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20260 chunks (88.86%), ETA: 0:01:57, Rate: 21.7 cps, Current: 17, -65
+[22:18:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20283 chunks (88.96%), ETA: 0:01:58, Rate: 21.3 cps, Current: 18, -67
+[22:18:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20305 chunks (89.05%), ETA: 0:01:58, Rate: 21.1 cps, Current: 20, -68
+[22:18:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20336 chunks (89.19%), ETA: 0:01:55, Rate: 21.3 cps, Current: 23, -66
+[22:18:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20360 chunks (89.29%), ETA: 0:01:53, Rate: 21.6 cps, Current: 27, -65
+[22:19:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20437 chunks (89.63%), ETA: 0:01:42, Rate: 23.1 cps, Current: -31, -65
+[22:19:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20457 chunks (89.72%), ETA: 0:01:42, Rate: 22.8 cps, Current: -31, -74
+[22:19:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20471 chunks (89.78%), ETA: 0:01:43, Rate: 22.6 cps, Current: -28, -67
+[22:19:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20504 chunks (89.93%), ETA: 0:01:41, Rate: 22.7 cps, Current: -26, -66
+[22:19:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20532 chunks (90.05%), ETA: 0:01:39, Rate: 22.8 cps, Current: -22, -65
+[22:19:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20558 chunks (90.16%), ETA: 0:01:38, Rate: 22.8 cps, Current: -22, -74
+[22:19:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20587 chunks (90.29%), ETA: 0:01:36, Rate: 22.9 cps, Current: -19, -73
+[22:19:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20613 chunks (90.40%), ETA: 0:01:35, Rate: 22.8 cps, Current: -17, -74
+[22:19:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20641 chunks (90.53%), ETA: 0:01:34, Rate: 22.8 cps, Current: -14, -70
+[22:19:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20668 chunks (90.65%), ETA: 0:01:33, Rate: 22.8 cps, Current: -12, -74
+[22:19:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20695 chunks (90.76%), ETA: 0:01:31, Rate: 22.9 cps, Current: -9, -72
+[22:19:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20714 chunks (90.85%), ETA: 0:01:32, Rate: 22.6 cps, Current: -4, -65
+[22:19:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20789 chunks (91.18%), ETA: 0:01:29, Rate: 22.5 cps, Current: -63, -65
+[22:19:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20809 chunks (91.26%), ETA: 0:01:30, Rate: 21.9 cps, Current: -64, -66
+[22:19:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20824 chunks (91.33%), ETA: 0:01:31, Rate: 21.5 cps, Current: -64, -68
+[22:19:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20855 chunks (91.47%), ETA: 0:01:30, Rate: 21.6 cps, Current: -57, -65
+[22:19:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20881 chunks (91.58%), ETA: 0:01:27, Rate: 21.9 cps, Current: -56, -70
+[22:19:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20910 chunks (91.71%), ETA: 0:01:25, Rate: 22.1 cps, Current: -54, -74
+[22:19:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20938 chunks (91.83%), ETA: 0:01:23, Rate: 22.3 cps, Current: -51, -72
+[22:19:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20965 chunks (91.95%), ETA: 0:01:22, Rate: 22.3 cps, Current: -49, -74
+[22:19:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20994 chunks (92.07%), ETA: 0:01:21, Rate: 22.2 cps, Current: -46, -73
+[22:19:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21019 chunks (92.18%), ETA: 0:01:19, Rate: 22.3 cps, Current: -43, -66
+[22:19:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21042 chunks (92.29%), ETA: 0:01:17, Rate: 22.6 cps, Current: -42, -74
+[22:19:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21064 chunks (92.38%), ETA: 0:01:17, Rate: 22.5 cps, Current: -38, -66
+[22:19:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21141 chunks (92.72%), ETA: 0:01:14, Rate: 22.4 cps, Current: -73, -72
+[22:19:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21143 chunks (92.73%), ETA: 0:01:17, Rate: 21.4 cps, Current: -74, -67
+[22:19:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21163 chunks (92.82%), ETA: 0:01:17, Rate: 21.1 cps, Current: -72, -70
+[22:19:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21176 chunks (92.87%), ETA: 0:01:18, Rate: 20.6 cps, Current: -72, -66
+[22:19:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21199 chunks (92.97%), ETA: 0:01:18, Rate: 20.5 cps, Current: -70, -74
+[22:19:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21223 chunks (93.08%), ETA: 0:01:18, Rate: 20.1 cps, Current: -71, -65
+[22:19:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21263 chunks (93.25%), ETA: 0:01:14, Rate: 20.6 cps, Current: -74, -64
+[22:19:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21264 chunks (93.26%), ETA: 0:01:18, Rate: 19.5 cps, Current: -75, -63
+[22:19:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21266 chunks (93.27%), ETA: 0:01:24, Rate: 18.2 cps, Current: -75, -62
+[22:19:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21275 chunks (93.31%), ETA: 0:01:25, Rate: 17.9 cps, Current: -75, -55
+[22:19:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21277 chunks (93.32%), ETA: 0:01:28, Rate: 17.3 cps, Current: -74, -60
+[22:19:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21315 chunks (93.48%), ETA: 0:01:23, Rate: 17.8 cps, Current: -74, -44
+[22:19:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21349 chunks (93.63%), ETA: 0:01:19, Rate: 18.2 cps, Current: -73, -43
+[22:19:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21383 chunks (93.78%), ETA: 0:01:15, Rate: 18.8 cps, Current: -72, -42
+[22:19:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21412 chunks (93.91%), ETA: 0:01:13, Rate: 18.8 cps, Current: -71, -46
+[22:19:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21434 chunks (94.00%), ETA: 0:01:13, Rate: 18.5 cps, Current: -70, -47
+[22:19:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21486 chunks (94.23%), ETA: 0:01:07, Rate: 19.4 cps, Current: -68, -51
+[22:19:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21614 chunks (94.79%), ETA: 0:00:52, Rate: 22.6 cps, Current: -75, -32
+[22:19:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21616 chunks (94.80%), ETA: 0:00:56, Rate: 21.0 cps, Current: -75, -31
+[22:19:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21618 chunks (94.81%), ETA: 0:00:58, Rate: 20.1 cps, Current: -75, -30
+[22:19:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21620 chunks (94.82%), ETA: 0:01:01, Rate: 19.1 cps, Current: -75, -29
+[22:19:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21636 chunks (94.89%), ETA: 0:01:01, Rate: 19.0 cps, Current: -74, -27
+[22:19:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21651 chunks (94.96%), ETA: 0:01:01, Rate: 18.8 cps, Current: -73, -32
+[22:20:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21687 chunks (95.11%), ETA: 0:00:57, Rate: 19.3 cps, Current: -74, -10
+[22:20:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21720 chunks (95.26%), ETA: 0:00:54, Rate: 19.8 cps, Current: -72, -13
+[22:20:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21739 chunks (95.34%), ETA: 0:00:54, Rate: 19.6 cps, Current: -71, -25
+[22:20:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21773 chunks (95.49%), ETA: 0:00:52, Rate: 19.7 cps, Current: -70, -24
+[22:20:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21806 chunks (95.64%), ETA: 0:00:49, Rate: 20.1 cps, Current: -68, -32
+[22:20:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21911 chunks (96.10%), ETA: 0:00:39, Rate: 22.5 cps, Current: -67, -6
+[22:20:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21966 chunks (96.34%), ETA: 0:00:34, Rate: 24.4 cps, Current: -75, 0
+[22:20:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21968 chunks (96.35%), ETA: 0:00:34, Rate: 24.4 cps, Current: -75, 1
+[22:20:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21970 chunks (96.36%), ETA: 0:00:35, Rate: 23.4 cps, Current: -75, 2
+[22:20:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21980 chunks (96.40%), ETA: 0:00:35, Rate: 23.1 cps, Current: -75, 11
+[22:20:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21994 chunks (96.46%), ETA: 0:00:35, Rate: 22.5 cps, Current: -75, 18
+[22:20:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22016 chunks (96.56%), ETA: 0:00:35, Rate: 21.9 cps, Current: -74, 18
+[22:20:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22045 chunks (96.68%), ETA: 0:00:34, Rate: 21.7 cps, Current: -74, 28
+[22:20:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22050 chunks (96.71%), ETA: 0:00:35, Rate: 21.1 cps, Current: -73, 19
+[22:20:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22075 chunks (96.82%), ETA: 0:00:36, Rate: 20.1 cps, Current: -72, 18
+[22:20:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22091 chunks (96.89%), ETA: 0:00:43, Rate: 16.4 cps, Current: -71, 7
+[22:20:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22103 chunks (96.94%), ETA: 0:00:40, Rate: 17.2 cps, Current: -71, 15
+[22:20:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22134 chunks (97.07%), ETA: 0:00:37, Rate: 17.7 cps, Current: -70, 17
+[22:20:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22162 chunks (97.20%), ETA: 0:00:34, Rate: 18.7 cps, Current: -71, 31
+[22:20:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22222 chunks (97.46%), ETA: 0:00:27, Rate: 20.9 cps, Current: -68, 23
+[22:20:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22318 chunks (97.88%), ETA: 0:00:20, Rate: 23.3 cps, Current: -75, 32
+[22:20:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22320 chunks (97.89%), ETA: 0:00:22, Rate: 21.8 cps, Current: -75, 33
+[22:20:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22322 chunks (97.90%), ETA: 0:00:23, Rate: 20.5 cps, Current: -75, 34
+[22:20:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22323 chunks (97.90%), ETA: 0:00:23, Rate: 20.7 cps, Current: -74, 34
+[22:20:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22339 chunks (97.97%), ETA: 0:00:22, Rate: 20.3 cps, Current: -74, 36
+[22:20:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22358 chunks (98.06%), ETA: 0:00:21, Rate: 20.4 cps, Current: -75, 54
+[22:20:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22389 chunks (98.19%), ETA: 0:00:19, Rate: 20.7 cps, Current: -73, 50
+[22:20:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22409 chunks (98.28%), ETA: 0:00:19, Rate: 20.3 cps, Current: -73, 53
+[22:20:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22439 chunks (98.41%), ETA: 0:00:20, Rate: 17.7 cps, Current: -71, 35
+[22:20:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22451 chunks (98.46%), ETA: 0:00:21, Rate: 16.4 cps, Current: -71, 43
+[22:20:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22476 chunks (98.57%), ETA: 0:00:18, Rate: 17.4 cps, Current: -70, 39
+[22:20:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22502 chunks (98.69%), ETA: 0:00:15, Rate: 18.7 cps, Current: -71, 61
+[22:20:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22558 chunks (98.93%), ETA: 0:00:12, Rate: 19.8 cps, Current: -68, 55
+[22:20:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22670 chunks (99.43%), ETA: 0:00:05, Rate: 23.4 cps, Current: -75, 64
+[22:20:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22673 chunks (99.44%), ETA: 0:00:05, Rate: 22.8 cps, Current: -71, 64
+[22:20:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22689 chunks (99.51%), ETA: 0:00:04, Rate: 22.4 cps, Current: -71, 65
+[22:20:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22717 chunks (99.63%), ETA: 0:00:03, Rate: 22.4 cps, Current: -72, 71
+[22:20:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22756 chunks (99.80%), ETA: 0:00:01, Rate: 23.7 cps, Current: -67, 67
+[22:20:49] [Server thread/INFO]: [Chunky] Task finished for world. Processed: 22801 chunks (100.00%), Total time: 0:05:22
+[22:26:43] [Server thread/INFO]: [Chunky] Successfully reloaded configuration.
+[22:26:48] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[22:26:48] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[22:26:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:26:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:26:48] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:26:48] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:26:48] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[22:26:48] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+151-f2af952
+[22:26:48] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0-dev+151-f2af952
+[22:26:48] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[22:26:48] [Server thread/INFO]: [OldCombatMechanics] Disabling OldCombatMechanics v1.0
+[22:26:48] [Server thread/INFO]: [OldCombatMechanics] OldCombatMechanics desactivado!
+[22:26:48] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[22:26:48] [Server thread/INFO]: [FrameDupe] Disabling FrameDupe v1.0
+[22:26:48] [Server thread/INFO]: [FrameDupe] FrameDupe Plugin desactivado!
+[22:26:48] [Server thread/INFO]: [TNTUtils] Disabling TNTUtils v1.3
+[22:26:48] [Server thread/INFO]: [TNTUtils] TNTUtils desactivado.
+[22:26:48] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[22:26:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[22:26:48] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[22:26:48] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[22:26:48] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[22:26:48] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[22:26:48] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:26:49] [Server thread/INFO]: Loaded 1337 recipes
+[22:26:49] [Server thread/INFO]: Loaded 1448 advancements
+[22:26:49] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:26:49] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/TNTUtilsPlugin.jar'...
+[22:26:49] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TNTUtilsPlugin.jar' in 141ms.
+[22:26:49] [Server thread/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[22:26:49] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - Chunky (1.4.28), Essentials (2.21.0-dev+151-f2af952), EssentialsChat (2.21.0-dev+151-f2af952), EssentialsSpawn (2.21.0-dev+151-f2af952), FrameDupe (1.0), OldCombatMechanics (1.0), PlugManX (2.4.1), TNTUtils (1.3), ViaBackwards (5.2.0), ViaRewind (4.0.4), ViaVersion (5.2.0), voicechat (2.5.26)
+[22:26:49] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[22:26:49] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[22:26:49] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[22:26:50] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:26:50] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:26:50] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:26:50] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:26:50] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[22:26:50] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.0
+[22:26:50] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+151-f2af952
+[22:26:50] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[22:26:50] [Server thread/INFO]: [TNTUtils] Loading server plugin TNTUtils v1.3
+[22:26:50] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.0
+[22:26:50] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[22:26:50] [Server thread/INFO]: [OldCombatMechanics] Loading server plugin OldCombatMechanics v1.0
+[22:26:50] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[22:26:50] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+151-f2af952
+[22:26:50] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+151-f2af952
+[22:26:50] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[22:26:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:26:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[22:26:50] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[22:26:50] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[22:26:50] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[22:26:50] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[22:26:50] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[22:26:50] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[22:26:50] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[22:26:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[22:26:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[22:26:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.0
+[22:26:51] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+151-f2af952
+[22:26:51] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:26:51] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:26:51] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:26:51] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[22:26:51] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[22:26:51] [Server thread/INFO]: [Essentials] Converted 0/1
+[22:26:51] [Server thread/INFO]: [Essentials] Ban format update complete.
+[22:26:51] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[22:26:51] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[22:26:51] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[22:26:51] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[22:26:51] [Server thread/INFO]: [Essentials] Done converting mail list.
+[22:26:51] [Server thread/INFO]: [Essentials] #===========================================================================#
+[22:26:51] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[22:26:51] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[22:26:51] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[22:26:51] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[22:26:51] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[22:26:51] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[22:26:51] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[22:26:51] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[22:26:51] [Server thread/INFO]: [Essentials] 
+[22:26:51] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[22:26:51] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[22:26:51] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[22:26:51] [Server thread/INFO]: [Essentials] #===========================================================================#
+[22:26:51] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[22:26:51] [Server thread/INFO]: [Essentials] #===========================================================================#
+[22:26:51] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[22:26:51] [Server thread/INFO]: [Essentials] 
+[22:26:51] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[22:26:51] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[22:26:51] [Server thread/INFO]: [Essentials] 
+[22:26:51] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[22:26:51] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[22:26:51] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[22:26:51] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[22:26:51] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[22:26:51] [Server thread/INFO]: [Essentials] #===========================================================================#
+[22:26:51] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[22:26:51] [Server thread/INFO]: [Essentials] Using locale en
+[22:26:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:26:51] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:26:51] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:26:51] [Server thread/INFO]: [TNTUtils] Enabling TNTUtils v1.3
+[22:26:51] [Server thread/INFO]: [TNTUtils] Configuración cargada: radio de explosión = 10.0
+[22:26:51] [Server thread/INFO]: [TNTUtils] TNTUtils activado correctamente.
+[22:26:51] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.0
+[22:26:51] [Server thread/INFO]: [FrameDupe] Probabilidad de duplicación configurada en: 0.3
+[22:26:51] [Server thread/INFO]: [FrameDupe] FrameDupe Plugin activado!
+[22:26:51] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[22:26:51] [Server thread/INFO]: [OldCombatMechanics] Enabling OldCombatMechanics v1.0
+[22:26:51] [Server thread/INFO]: [OldCombatMechanics] OldCombatMechanics activado: PvP de la 1.8 restaurado!
+[22:26:51] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[22:26:51] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
+[22:26:51] [Server thread/INFO]: [voicechat] Compatibility version 18
+[22:26:51] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[22:26:51] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[22:26:51] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
+[22:26:51] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+151-f2af952
+[22:26:51] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:26:51] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+151-f2af952
+[22:26:51] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:26:51] [Server thread/INFO]: CONSOLE: Reload complete.
+[22:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[22:26:51] [Craft Scheduler Thread - 15 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:26:51] [Craft Scheduler Thread - 16 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:26:51] [Server thread/INFO]: [voicechat] Loading plugins
+[22:26:51] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:26:51] [Server thread/INFO]: [voicechat] Initializing plugins
+[22:26:51] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:26:51] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:26:51] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:26:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tnt 
+[22:26:58] [Server thread/INFO]: Error: Only in-game players can use tnt.
+[22:26:59] [Server thread/INFO]: Server Plugins (12):
+[22:26:59] [Server thread/INFO]: Bukkit Plugins:
+[22:26:59] [Server thread/INFO]:  - Chunky, Essentials, EssentialsChat, EssentialsSpawn, FrameDupe, OldCombatMechanics, PlugManX, TNTUtils, ViaBackwards, ViaRewind
+[22:26:59] [Server thread/INFO]:  ViaVersion, voicechat
+[22:26:59] [User Authenticator #2/INFO]: UUID of player Drexco is 889ded56-31d1-3eee-aad9-35e3293f38f4
+[22:26:59] [Server thread/INFO]: Drexco joined the game
+[22:26:59] [Server thread/INFO]: Drexco[/172.24.70.177:50924] logged in with entity id 25170 at ([world]-49.6786475110079, 83.47984582871374, 61.21452689728947)
+[22:27:52] [Server thread/INFO]: Drexco has made the advancement [Acquire Hardware]
