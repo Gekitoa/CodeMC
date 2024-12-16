@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1734370514111
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734354033100
-  login: 1734353567604
+  logout: 1734370552077
+  login: 1734370483583
 money: '0'
 last-account-name: Drexco
 logoutlocation:
   world: d42ccd6a-5cb9-41ec-bc99-22dc455d4229
   world-name: world
-  x: 1275.9610382625237
+  x: 1275.5
   y: 87.0
-  z: 384.1218367577128
-  yaw: -177.0184783935547
-  pitch: 22.500022888183594
+  z: 383.5
+  yaw: -175.3684844970703
+  pitch: 22.200023651123047
+lastlocation:
+  world: d42ccd6a-5cb9-41ec-bc99-22dc455d4229
+  world-name: world
+  x: 1276.5341608942751
+  y: 78.0
+  z: 374.79244125319775
+  yaw: -173.71849060058594
+  pitch: 47.550025939941406
