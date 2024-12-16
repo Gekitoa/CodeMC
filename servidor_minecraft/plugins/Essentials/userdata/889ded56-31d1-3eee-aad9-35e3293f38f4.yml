@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734301915729
-  login: 1734301619925
+  logout: 1734353548305
+  login: 1734353567604
 money: '0'
 last-account-name: Drexco
 logoutlocation:
   world: d42ccd6a-5cb9-41ec-bc99-22dc455d4229
   world-name: world
-  x: 438.6885882405907
-  y: 105.12423132648843
-  z: 361.7364373435273
-  yaw: -59.11865234375
-  pitch: 41.850006103515625
+  x: 1275.9635748001128
+  y: 87.0
+  z: 383.9069806015737
+  yaw: -175.3684844970703
+  pitch: 21.300024032592773
