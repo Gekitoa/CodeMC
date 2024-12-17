@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 172.24.70.177
+ip-address: 127.4.64.75
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1734370514111
+  lastteleport: 1734457005929
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1734371982533
-  login: 1734371888521
+  login: 1734456521273
 money: '0'
 last-account-name: Drexco
 logoutlocation:
@@ -29,10 +29,10 @@ logoutlocation:
   yaw: -175.3684844970703
   pitch: 22.200023651123047
 lastlocation:
-  world: d42ccd6a-5cb9-41ec-bc99-22dc455d4229
-  world-name: world
-  x: 1276.5341608942751
-  y: 78.0
-  z: 374.79244125319775
-  yaw: -173.71849060058594
-  pitch: 47.550025939941406
+  world: 717763dc-15d5-46e2-911b-631d7c06f21b
+  world-name: world_nether
+  x: 109.66928358677315
+  y: 96.68978091289128
+  z: 111.28547721500559
+  yaw: 47.082489013671875
+  pitch: 6.599971771240234
